@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NoteQ</string>
+    <string name="title">Title</string>
+    <string name="description">Type Something...</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="message_undo">Undo Delete?</string>
+    <string name="message_ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Update</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">One item successfully added</string>
+    <string name="changed">One item successfully changed</string>
+    <string name="deleted">One item sucessfully deleted </string>
+    <string name="e_notes">E-Notes</string>
+</resources>
